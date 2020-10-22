@@ -1,0 +1,20 @@
+PODS:
+  - SkeletonView (1.10.0)
+  - VK-ios-sdk (1.5.1)
+
+DEPENDENCIES:
+  - SkeletonView (~> 1.10)
+  - VK-ios-sdk
+
+SPEC REPOS:
+  trunk:
+    - SkeletonView
+    - VK-ios-sdk
+
+SPEC CHECKSUMS:
+  SkeletonView: 14fbe9702c7fb5c5f011b44ac3ae99fc73155726
+  VK-ios-sdk: 62a10b6571fbcda0657f455fedce7fedf55b4cd0
+
+PODFILE CHECKSUM: 99cca4199053617edd21ee7a3423ad080e874a5c
+
+COCOAPODS: 1.9.3
