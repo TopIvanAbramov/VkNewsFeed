@@ -10,7 +10,7 @@ import Foundation
 import UIKit
 
 struct Constans {
-    static let cardInsets = UIEdgeInsets(top: 8, left: 8, bottom: 8, right: 8)
+    static let cardInsets = UIEdgeInsets(top: 9, left: 8, bottom: 8, right: 9)
     static let topViewHeight : CGFloat = 46
     static let postLabelInsets = UIEdgeInsets(top: 8 + topViewHeight + 8, left: 8, bottom: 8, right: 8)
     static let postLabelFont = UIFont.systemFont(ofSize: 15)
