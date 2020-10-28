@@ -180,8 +180,7 @@
 				F3AA38152541952A003705C8 /* NewsfeedModels.swift */,
 				F3AA381E2541952A003705C8 /* NewsfeedViewController.storyboard */,
 			);
-			name = Newsfeed;
-			path = ../../VkNewsFeed/VkNewsFeed/Newsfeed;
+			path = Newsfeed;
 			sourceTree = "<group>";
 		};
 		F3AA38062541952A003705C8 /* FooterView */ = {
